@@ -124,6 +124,4 @@ function getWeekDay(date){
     return weekdays[day];
 }
  
-
- 
 //What weekday is tomorrow?
